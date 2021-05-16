@@ -1,5 +1,5 @@
 # Plotly Challenge - Belly Button Biodiversity
-Build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes (aka operational taxonomic units (OTUs)) that colonize human navels.
+Use Javascript and HTML to build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes (aka operational taxonomic units (OTUs)) that colonize human navels.
 #
 1. Drop down menu of test subject ID numbers that drives all charts.
 2. Horizontal bar chart to display the top 10 OTUs found in that individual.
