@@ -5,7 +5,7 @@ Build an interactive dashboard to explore the Belly Button Biodiversity dataset,
 2. Horizontal bar chart to display the top 10 OTUs found in that individual.
 3. Display the sample metadata.
 4. Bubble chart whith popups that displays each sample, bubble size relative to OTU level.
-5. Create a gauge Chart to plot the weekly washing frequency of the individual.
+5. Gauge Chart to plot the weekly washing frequency of the individual.
 #
 https://dougbhigh.github.io/Plotly-Challenge/ 
 
