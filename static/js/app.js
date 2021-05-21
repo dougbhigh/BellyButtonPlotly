@@ -11,8 +11,9 @@
 //      3- create bar, gauge, and bubble charts.                                               //
 //   - on initial load do number 1 above and number 2 and 3 for first patient on file.         //
 //   - onchange processing for user choosing different patients from pull down controlled via  //
-//     html, 'id="selDataset" onchange="optionChanged(this.value)"'.  numbers 2 and 3 above    //
-//     then performed for chosen patient id.                                                   // 
+//     html, 'id="selDataset" onchange="optionChanged(this.value)"'.  numbers 2 and 3 above    //  
+//     then performed for chosen patient id.                                                   //
+//  *- 5/2021 - git repo and local folder name changed to BellyButtonPlotly, no code changes.  //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
 
